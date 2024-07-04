@@ -1,4 +1,4 @@
-# Cultural-aware Machine Learning based Analysis of COVID-19 Vaccine Hesitancy
+# Deep learning Framework with Multi-perspective Social Behaviors for Vaccine Hesitation
 This is the source code for the paper: Cultural-aware Machine Learning based Analysis of COVID-19 Vaccine Hesitancy
 
 
